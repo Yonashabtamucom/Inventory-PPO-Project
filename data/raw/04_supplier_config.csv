@@ -1,0 +1,4 @@
+supplier_id,product,lead_time_days,minimum_order_quantity,fixed_order_cost
+SUP01,Cooking Oil,2,5,50.0
+SUP01,Rice,1,10,30.0
+SUP02,Soap,2,5,20.0

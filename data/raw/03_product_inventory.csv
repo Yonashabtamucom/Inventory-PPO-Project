@@ -1,0 +1,4 @@
+product,initial_inventory,minimum_stock,maximum_stock,maximum_order_quantity,shelf_life_days
+Cooking Oil,50,15,120,100,
+Rice,80,20,180,150,
+Soap,40,10,100,200,
